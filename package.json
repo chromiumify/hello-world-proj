@@ -1,0 +1,29 @@
+{
+  "name": "hello-world-proj",
+  "version": "1.0.0",
+  "description": "The project source code for the tutorial chromiumify #1",
+  "main": "index.js",
+  "dependencies": {
+    "chrome-net": "^2.5.0",
+    "chrome-fs": "^2.0.0",
+    "chrome-dgram": "^2.1.4",
+    "http-node": "^0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chromiumify/hello-world-proj.git"
+  },
+  "keywords": [
+    "chromiumify"
+  ],
+  "author": "anton whalley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chromiumify/hello-world-proj/issues"
+  },
+  "homepage": "https://github.com/chromiumify/hello-world-proj#readme"
+}
